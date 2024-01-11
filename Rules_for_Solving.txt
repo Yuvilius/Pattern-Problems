@@ -1,0 +1,14 @@
+While solving any pattern problem, irrespective of the language, there are 4 crucial rules for solving such problems:
+
+Rule 1 -> Always use nested loops for printing patterns.
+
+Rule 2 -> The outer loop in a nested loop is used to count the number of rows, whereas the inner loops count the number
+          of columns.
+
+Rule 3 -> We need to form a logic between number of rows and columns depending on the question asked.
+
+Rule 4 -> Some patterns demand us to observe symmetry in them. This statement will be more clear as you go on solving
+          more pattern problems.
+
+These 4 rules are not my original, but are essential rules that I referred to while solving these problems.
+
