@@ -8,3 +8,12 @@ for i in range(n):
     for j in range(i + 1):
         print("*", end="")
     print("")
+
+# Expected Outcome:
+# *
+# * *
+# * * *
+# * * * *
+# * * * * *
+# for n = 5
+
