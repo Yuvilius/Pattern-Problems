@@ -16,4 +16,3 @@ for i in range(n):
 # * *
 # *
 # for n = 5
-
