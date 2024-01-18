@@ -2,7 +2,6 @@
 
 This Git repository contains Python solutions to 22 different pattern problems. These patterns are commonly encountered in programming interviews and serve as a great exercise for enhancing problem-solving skills and understanding of loop structures. 
 
-I am a novice programmer and I chose to write the solutions for these problems in python because of python's beginer-friendly nature. I hope that this repo of mine can be of some assisstance on your programming journey ;)
 
 ## Table of Contents
 
