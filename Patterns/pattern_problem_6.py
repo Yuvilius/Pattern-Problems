@@ -9,7 +9,7 @@ for i in range(n):
         print(j, end="")
     print("")
 
-# Expected Outcome:
+# Expected Output:
 # 1 2 3 4 5
 # 1 2 3 4
 # 1 2 3

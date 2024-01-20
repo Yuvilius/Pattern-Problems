@@ -16,7 +16,7 @@ for i in range(n):
 
     print("")
 
-# Expected Outcome:
+# Expected Output:
 #         *
 #       * * *
 #     * * * * *

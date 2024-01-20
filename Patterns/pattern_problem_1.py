@@ -11,7 +11,7 @@ for i in range(n):
         print("*", end="")   # 'end' is a python parameter used to get the output in a single line
     print()
 
-# Expected Outcome:
+# Expected Output:
 # *****
 # *****
 # *****
